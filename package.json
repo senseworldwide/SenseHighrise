@@ -1,0 +1,12 @@
+{ 
+    "name" : "SenseHighrise",
+    "version" : "0.0.1",
+    "private": true,
+    "dependencies" : { 
+        "coffee-script": "1.2.0",
+        "restler": "0.2.4",
+        "xml2js":"0.1.13",
+        "jsontoxml":"0.0.2",
+        "underscore.string":"2.0.0"
+    }
+}
